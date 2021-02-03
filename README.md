@@ -1,5 +1,5 @@
 
-This page use [Open Weather](https://openweathermap.org/forecast5) api
+This page use [Open Weather](https://openweathermap.org/forecast16) api
 
 ## Getting Started with Create React App
 
@@ -8,6 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `yarn install`
 
 ### `yarn start`
 
